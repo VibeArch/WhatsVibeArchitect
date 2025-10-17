@@ -34,3 +34,12 @@ Vibe Architect 是一种基于人工智能的新型软件架构范式与实践�
 ## 结束语
 
 Vibe Architect 并非要取代架构师，而是旨在通过AI增强架构师的智慧、延伸其能力边界，将软件架构从一门“手艺”和“艺术”，升华为一门真正意义上的、由数据和智能驱动的“工程科学”。这股浪潮已经到来，它将彻底重塑我们设计、构建和演进复杂软件系统的方式。
+
+## 更多有关 vibe architect 的见解与想法
+
+- [Is Vibe Coding Leading us to Vibe Architecture?](https://inclusioncloud.com/insights/blog/vibe-coding-vibe-architecture/)
+- [Vibe Architecture](https://www.linkedin.com/pulse/vibe-architecture-paul-cooper-annje/)
+- [Vibe coding is destroying architecture: the silent rot in our AI-built systems](https://medium.com/@dev_tips/vibe-coding-is-destroying-architecture-the-silent-rot-in-our-ai-built-systems-059141488dc5)
+- [Thoughts on vibe coded architecture](https://www.reddit.com/r/vibecoding/comments/1n66j86/thoughts_on_vibe_coded_architecture/)
+- [Vibe-Architecting: Collaborative Architecting and Planning with AI: Enhance Your Development Workflow](https://corti.com/vibe-architecting-collaborative-architecting-and-planning-with-ai-enhance-your-development-workflow/)
+- <https://awesome-vibe-coding.com/>
