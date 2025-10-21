@@ -1,7 +1,7 @@
-# Whats Vibe Architect
+# Whats Vibe Architect | 什么是氛围架构
 Let's vibe architect with AI like dancing with rockets!
 
-Vibe Architect：新一代AI驱动的软件架构范式
+Vibe Architect | 氛围架构：新一代AI驱动的软件架构范式
 
 概念定义
 Vibe Architect 是一种基于人工智能的新型软件架构范式与实践框架。它利用先进的AI模型，特别是大型语言模型（LLMs），将高阶的、往往难以量化的系统设计理念（即“Vibe”——包括业务愿景、技术哲学、团队文化、质量属性权衡等）与严谨的、形式化的软件架构设计与演进过程进行深度融合。其核心目标是让架构工作变得可编程、可迭代、可持续，从而将架构师从繁重的重复性工作中解放出来，聚焦于更具创造性的战略决策。
@@ -29,6 +29,8 @@ Vibe Architect 是一种基于人工智能的新型软件架构范式与实践�
 
 -  遗留系统现代化 (Legacy System Modernization)：输入一个庞大、复杂的单体应用代码库，Vibe Architect AI能够自动分析其业务逻辑、数据模型和技术债，识别出清晰的业务边界（Bounded Contexts），并生成一套科学的、分阶段的微服务拆分方案，包含API设计和数据迁移策略。
 
+- 绿地项目极速启动 (Greenfield Project Acceleration)：创业公司CEO输入一份商业计划书和技术愿景（例如：“我们需要一个支持千万级用户、金融级安全、且能快速迭代的电商平台”），AI即可生成一套遵循“AWS Well-Architected Framework”的云原生架构方案，包含详细的服务划分、技术选型、IaC（Infrastructure as Code）脚本和初步的成本预估。
+
 - 架构守护与持续重构 (Architecture Guardianship & Continuous Refactoring)：在大型项目中，Vibe Architect AI作为“架构守护者”持续运行。当有开发人员提交了可能破坏核心设计原则（如分层、循环依赖）的代码时，它能在代码审查（Code Review）阶段自动识别并发出警告，甚至直接给出重构建议的Pull Request。
 
 ## 结束语
@@ -43,3 +45,7 @@ Vibe Architect 并非要取代架构师，而是旨在通过AI增强架构师的
 - [Thoughts on vibe coded architecture](https://www.reddit.com/r/vibecoding/comments/1n66j86/thoughts_on_vibe_coded_architecture/)
 - [Vibe-Architecting: Collaborative Architecting and Planning with AI: Enhance Your Development Workflow](https://corti.com/vibe-architecting-collaborative-architecting-and-planning-with-ai-enhance-your-development-workflow/)
 - <https://awesome-vibe-coding.com/>
+
+
+*NOTES*
+- 本仓库是用了 AI 工具来辅助内容创作和排版。
