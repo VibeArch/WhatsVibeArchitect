@@ -25,6 +25,17 @@ Vibe Architect 是一种基于人工智能的新型软件架构范式与实践�
 - 代码知识图谱 (Code Knowledge Graphs)：利用GNNs分析代码依赖、模块关系和调用链，构建深度的系统认知。
 - 架构优化引擎 (Architecture Optimization Engine)：结合多目标优化算法和强化学习，在性能、成本、安全等多个维度上寻找最优架构解。
 
+## 架构文档
+
+- 基于规范的AI编程
+  - OpenSpec <https://openspec.dev/> <https://github.com/Fission-AI/OpenSpec> 
+  - spec-kit <https://github.com/github/spec-kit> 
+- 基于文档的架构演进
+  - SAD 软件架构设计 (相关 PRD 产品需求文档，DRD 设计需求文档，TRD 技术需求文档)
+  - HLD 概要设计文档
+  - TDD 技术设计文档
+  - ADR 架构决策记录 
+
 ## 典型应用场景
 
 -  遗留系统现代化 (Legacy System Modernization)：输入一个庞大、复杂的单体应用代码库，Vibe Architect AI能够自动分析其业务逻辑、数据模型和技术债，识别出清晰的业务边界（Bounded Contexts），并生成一套科学的、分阶段的微服务拆分方案，包含API设计和数据迁移策略。
