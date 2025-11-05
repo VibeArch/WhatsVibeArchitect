@@ -57,6 +57,13 @@ Vibe Architect 并非要取代架构师，而是旨在通过AI增强架构师的
 - [Vibe-Architecting: Collaborative Architecting and Planning with AI: Enhance Your Development Workflow](https://corti.com/vibe-architecting-collaborative-architecting-and-planning-with-ai-enhance-your-development-workflow/)
 - <https://awesome-vibe-coding.com/>
 
+## 更多有关软件架构的方法、观点与资料集
+
+- https://martinfowler.com/architecture/
+- https://bytebytego.com/guides/software-architecture/
+- [Understanding Software Architecture: A Complete Guide](https://sarrahpitaliya.medium.com/understanding-software-architecture-a-complete-guide-cb8f05900603)
+- https://github.com/mehdihadeli/awesome-software-architecture
+
 
 *NOTES*
 - 本仓库使用了 AI 工具来辅助内容创作和排版。
